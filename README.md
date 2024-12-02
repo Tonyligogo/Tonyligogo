@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyligogo&label=Profile%20views&color=0e75b6&style=flat" alt="tonyligogo" /> </p>
 
-- 🔭 I’m currently working on **a Pharmacy e-commerce platform**
+- 🔭 I’m currently working on **something big and private**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Web dev projects**
 
-- 💬 Ask me about **MERN,Python,Django**
+- 💬 Ask me about **MERN,Python, Java**
 
 - 📫 How to reach me **ligogo.dev@gmail.com**
 
